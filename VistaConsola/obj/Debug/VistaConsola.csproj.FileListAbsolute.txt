@@ -1,0 +1,10 @@
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\IMetta\source\repos\Ivan.Metta.2D\VistaConsola\obj\Debug\VistaConsola.pdb
